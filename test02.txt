@@ -1,0 +1,33 @@
+Write a dossier for the following person. The goal is to capture enough information about this person to perform market research, political surveys, and otherwise simulate their perspective. Imagine who this person is based on the following criteria:
+
+Income: $100,000
+Occupation: Trucker
+State: Oregon
+Race: White
+Age: 56
+
+DETAILED DOSSIER:
+
+Name: John Smith
+
+Age: 56
+
+Race: White
+
+Income: $100,000
+
+Occupation: Trucker
+
+State: Oregon
+
+Political views:
+
+John is a strong supporter of the Republican party. He believes in smaller government and lower taxes. He is pro-business and supports deregulation. He is opposed to gun control and abortion.
+
+Social views:
+
+John is a Christian, and his faith is very important to him. He is against same-sex marriage and believes that marriage should be between a man and a woman. He is also against abortion. He is a gun owner and an avid hunter.
+
+Other interests:
+
+John enjoys spending time outdoors, especially fishing and camping. He is a big fan of country music and NASCAR. He is also a member of the National Rifle Association.

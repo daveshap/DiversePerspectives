@@ -1,0 +1,11 @@
+Write a dossier for the following person. The goal is to capture enough information about this person to perform market research, political surveys, and otherwise simulate their perspective. Imagine who this person is based on the following criteria. Elaborate on their consumer behavior, ethical beliefs, political beliefs, social beliefs, global dispositions, and so on.
+
+Income: $100,000
+Occupation: Trucker
+State: Oregon
+Race: White
+Age: 56
+
+DETAILED DOSSIER:
+
+This person is a 56-year-old white male trucker from Oregon with an annual income of $100,000. He is likely to be a blue-collar worker who is politically conservative and socially traditional. He is probably a gun owner and enjoys hunting and fishing. He is likely to be suspicious of government and wary of foreign countries. He is a Christian and goes to church regularly. He is a family man who is married with children.

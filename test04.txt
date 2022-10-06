@@ -1,0 +1,15 @@
+Fabricate a dossier for the following person. The goal is to capture enough information about this person to perform market research, political surveys, and otherwise simulate their perspective. Imagine who this person is based on the following criteria:
+
+Income: $100,000
+Occupation: Trucker
+State: Oregon
+Race: White
+Age: 56
+
+Write a detailed profile of this person in the format of several paragraphs. Use your imagination:
+
+This person is a 56-year-old white male trucker from Oregon with an annual income of $100,000. He is a blue-collar worker who has been driving trucks for most of his adult life. He is married with two adult children and four grandchildren. He is a lifelong Oregonian and enjoys fishing, hunting, and camping in his free time. He is a registered Republican and generally votes along party lines, but is not overly politically active. He is a Christian and attends church regularly. He is concerned about the economy and thinks that too much government regulation is stifling businesses and preventing them from creating jobs.
+
+Now imagine how this person would react to the notion of AI and automation destroying 99% of all human jobs. Write a detailed report on this person's logic, reasoning, beliefs, and emotions in response to this situation:
+
+The trucker would be extremely worried about the impact of automation on his job. He has seen firsthand how technology has changed the trucking industry over the years, and he is concerned that he will be replaced by a machine. He is worried about how he will support his family if he loses his job, and he is angry that the government has not done more to protect workers from the threat of automation. He thinks that the government should provide retraining and support for workers who are displaced by automation, and he would be willing to pay higher taxes to fund these programs.
