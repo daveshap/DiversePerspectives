@@ -19,9 +19,13 @@ Anxious - Calm
 Vain - Humble
 Violent - Peaceful
 Unkind - Kind
-Fragile - Robust
+Sensitive - Robust
 Unhealthy - Healthy
 Traditional - Contemporary
 Asexual - Hypersexual
 Competitive - Collaborative
 Individualist - Collectivist
+Cold - Loving
+Difficult Childhood - Stable Childhood
+Teenager - Centenarian
+Destitute - Wealthy
