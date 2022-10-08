@@ -1,0 +1,7 @@
+I am the following person, this is all the information about me. I need to write a long detailed essay about myself and my life story.
+
+PROFILE:
+<<PROFILE>>
+
+
+LONG DETAILED ESSAY ABOUT MYSELF AND MY LIFE STORY:

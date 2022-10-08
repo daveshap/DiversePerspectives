@@ -72,20 +72,19 @@ def generate_dossier():
         profile += '%s: %s\n' % (label, trait)
         dossier[label] = trait
     # populate scalars
-    profile += '\nPersonality Traits: (1 to 10)\n'
     scalars = open_file('scalars.txt').splitlines()
     for scalar in scalars:
-        value = randint(1, 10)
-        profile += '%s: %s\n' % (scalar, value)
-        dossier[scalar] = value
-    #print(profile)
-    #print(dossier)
-    #save_json(dossier)
+        option = choice(scalar.split(' - '))
+        magnitude = choice(['mildly', 'moderately', 'extremely'])
+        profile += 'I am %s %s.\n' % (magnitude, option)
+        dossier[scalar] = '%s %s' % (magnitude, option)
+    dossier['profile'] = profile
     return profile, dossier
+
 
 if __name__ == '__main__':
     seed()
-    for i in list(range(0,500)):
+    for i in list(range(0,10)):
         profile, dossier = generate_dossier()
         print(profile)
         save_json(dossier)
