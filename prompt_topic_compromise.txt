@@ -1,0 +1,11 @@
+I am confronted with a question or issue and I must brainstorm ideas about creative solutions to the problem. The goal is to discover compromises that can satisfy everyone's needs.
+
+
+MY STORY:
+<<STORY>>
+
+
+TOPIC: <<TOPIC>>
+
+
+DETAILED BRAINSTORM ON CREATIVE COMPROMISES:

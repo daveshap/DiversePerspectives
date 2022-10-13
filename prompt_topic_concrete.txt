@@ -1,0 +1,11 @@
+I am confronted with a question or issue and I must write out my specific, objective, concrete concerns. What are the material consequences or issues involved?
+
+
+MY STORY:
+<<PROFILE>>
+
+
+TOPIC: <<TOPIC>>
+
+
+DETAILED ESSAY ON MY CONCRETE CONCERNS:

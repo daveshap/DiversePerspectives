@@ -1,8 +1,11 @@
 I am confronted with a question or issue and I must write how I feel about it. I will write a long, extensive opinion about this topic.
 
+
 MY STORY:
 <<PROFILE>>
 
+
 TOPIC: <<TOPIC>>
+
 
 DETAILED ESSAY ON HOW I FEEL ABOUT THIS:
